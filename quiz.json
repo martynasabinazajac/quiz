@@ -1,0 +1,6 @@
+[
+    {"pytanie":"W którym roku pojawił sie python", "a":1991, "b":1290, "c":2001, "d":1989, "prawidłowa odpowiedź":"a"}, 
+    {"pytanie":"Ktora z koleji jest ziemnia od słońca", "a":2, "b":1, "c":3, "d":4, "prawidłowa odpowiedź":"c"},
+    {"pytanie":"Który aktor jako pierwszy wcielił się w role Jamsa Bonda", "a":"Sean Connery", "b":"Roger Moor", "c":"Timothy Dalton", "d":"Pierce Brosnan", "prawidłowa odpowiedź":"a"},
+    {"pytanie":"Która liczba jest parzyta", "a":1, "b":3, "c":16, "d":13, "prawidłowa odpowiedź":"c"}
+]
